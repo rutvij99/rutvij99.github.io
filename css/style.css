@@ -1356,7 +1356,7 @@ input[type="text"] {
 .blog-entry .desc h3,
 .blog-entry-2 .desc h3 {
   font-size: 16px;
-  margin-bottom: 25px;
+  margin-bottom: 10px;
   line-height: auto;
   font-weight: 500;
   text-transform: uppercase;
