@@ -1538,4 +1538,9 @@ main {
     }
 }
 
+.inactiveLink {
+  pointer-events: none;
+  cursor: default;
+}
+
 /*# sourceMappingURL=style.css.map */
